@@ -10,6 +10,7 @@ Proyek ini bertujuan untuk mengembangkan sistem pengenalan wajah yang dapat meng
 - Siapkan 5 gambar wajah pelanggan.
 - Pastikan setiap gambar wajah sudah terdokumentasi dengan baik dan diberi label yang sesuai dengan profil pelanggan.
 - Contoh hasil data wajah akan tersimpan di direktori **/DataSet**.
+![Screenshot 2024-07-17 212018](https://github.com/user-attachments/assets/7f480b8f-ad2d-45a7-9e4a-280730ae455d)
 - Pastikan data tersebut mencakup variasi yang mencukupi dalam jenis kelamin, usia, dan kondisi cahaya.
 
 ### 2. Integrasi Basis Data SQLite
