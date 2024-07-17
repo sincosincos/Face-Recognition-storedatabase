@@ -19,16 +19,16 @@ Proyek ini bertujuan untuk mengembangkan sistem pengenalan wajah yang dapat meng
 
 ### 3. Pelatihan Model Pengenalan Wajah
 - Pilih model pengenalan wajah yang sesuai, misalnya OpenCV FaceRecognizer atau model dari dlib.
-- Latih model menggunakan dataset wajah yang telah dikumpulkan menggunakan skrip **/pelatihan**.
+- Latih model menggunakan dataset wajah yang telah dikumpulkan menggunakan skrip **/pelatihan.py**.
 
 ### 4. Evaluasi Model
-- Evaluasi kinerja model menggunakan metrik seperti akurasi, presisi, recall, dan skor F1 menggunakan skrip **/evaluasi**.
+- Evaluasi kinerja model menggunakan metrik seperti akurasi, presisi, recall, dan skor F1 menggunakan skrip **/evaluasi.py**.
 - Gunakan dataset pengujian untuk menguji kemampuan model dalam mengenali wajah pelanggan.
 
 ### 5. Implementasi Sistem
 - Implementasikan sistem pengenalan wajah yang dapat berjalan secara real-time menggunakan kamera atau video.
 - Hubungkan sistem pengenalan wajah ke basis data SQLite untuk memperbarui profil pelanggan.
-- Gunakan skrip **/hasil_deteksi**.
+- Gunakan skrip **/hasil_deteksi.py**.
 
 ### 6. Dokumentasi
 - Pengumpulan Data
