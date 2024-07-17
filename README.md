@@ -35,7 +35,3 @@ Proyek ini bertujuan untuk mengembangkan sistem pengenalan wajah yang dapat meng
 - **/src**: Direktori untuk kode sumber aplikasi pengenalan wajah.
 - **/docs**: Direktori untuk dokumen-dokumen proyek, termasuk laporan proyek dan dokumentasi teknis.
 
-## Instalasi dan Penggunaan
-1. **Instalasi Dependencies**
-   ```bash
-   pip install -r requirements.txt
