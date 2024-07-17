@@ -22,13 +22,14 @@ Proyek ini bertujuan untuk mengembangkan sistem pengenalan wajah yang dapat meng
 - Latih model menggunakan dataset wajah yang telah dikumpulkan menggunakan skrip **/pelatihan.py**.
 
 ### 4. Evaluasi Model
-- Evaluasi kinerja model menggunakan metrik seperti akurasi, presisi, recall, dan skor F1 menggunakan skrip **/evaluasi.py**.
+- Gunakan skrip **/evaluasi.py** untuk evaluasi kinerja model menggunakan metrik seperti akurasi, presisi, recall, dan skor F1.
 - Gunakan dataset pengujian untuk menguji kemampuan model dalam mengenali wajah pelanggan.
 
 ### 5. Implementasi Sistem
+- Gunakan skrip **/hasil_deteksi.py**.
 - Implementasikan sistem pengenalan wajah yang dapat berjalan secara real-time menggunakan kamera atau video.
 - Hubungkan sistem pengenalan wajah ke basis data SQLite untuk memperbarui profil pelanggan.
-- Gunakan skrip **/hasil_deteksi.py**.
+
 
 ### 6. Dokumentasi
 - Pengumpulan Data
