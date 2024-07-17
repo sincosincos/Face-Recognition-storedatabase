@@ -6,10 +6,10 @@ Proyek ini bertujuan untuk mengembangkan sistem pengenalan wajah yang dapat meng
 ## Langkah-langkah Implementasi
 
 ### 1. Pengumpulan DataPengumpulan Data  
-- Gunakan skrip /pengambilan.py untuk mengambil data wajah dari setidaknya 5 pelanggan supermarket. Saya menggunakan file “haarcascade_frontalface_default.xml” yang tersedia pada link https://github.com/opencv/opencv/tree/master/data/haarcascades untuk mendapatkan skrip pengkelasan wajah yang telah disediakan oleh OpenCV.
+- Gunakan skrip **/pengambilan.py** untuk mengambil data wajah dari setidaknya 5 pelanggan supermarket. Saya menggunakan file “haarcascade_frontalface_default.xml” yang tersedia pada link https://github.com/opencv/opencv/tree/master/data/haarcascades untuk mendapatkan skrip pengkelasan wajah yang telah disediakan oleh OpenCV.
 - Siapkan 5 gambar wajah pelanggan.
 - Pastikan setiap gambar wajah sudah terdokumentasi dengan baik dan diberi label yang sesuai dengan profil pelanggan.
-- Contoh hasil data wajah akan tersimpan di direktori /DataSet.
+- Contoh hasil data wajah akan tersimpan di direktori **/DataSet**.
 - Pastikan data tersebut mencakup variasi yang mencukupi dalam jenis kelamin, usia, dan kondisi cahaya.
 
 ### 2. Integrasi Basis Data SQLite
