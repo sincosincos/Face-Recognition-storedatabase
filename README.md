@@ -32,14 +32,13 @@ Proyek ini bertujuan untuk mengembangkan sistem pengenalan wajah yang dapat meng
 
 ### 6. Dokumentasi
 - Pengumpulan DataPengumpulan Data
-![Screenshot 2024-07-17 212018](https://github.com/user-attachments/assets/7f480b8f-ad2d-45a7-9e4a-280730ae455d)
+  ![Screenshot 2024-07-17 212018](https://github.com/user-attachments/assets/7f480b8f-ad2d-45a7-9e4a-280730ae455d)
 - Integrasi Basis Data SQLite
-![Screenshot 2024-07-17 214337](https://github.com/user-attachments/assets/977e17ee-582b-43bf-985d-4d0d627ab145)
+  ![Screenshot 2024-07-17 214337](https://github.com/user-attachments/assets/977e17ee-582b-43bf-985d-4d0d627ab145)
 - Pelatihan Model Pengenalan Wajah dan Evaluasi Model
-![Screenshot 2024-07-17 214537](https://github.com/user-attachments/assets/f7e66628-ce7b-4ab7-9ace-1d28e250d0aa)
+  ![Screenshot 2024-07-17 214537](https://github.com/user-attachments/assets/f7e66628-ce7b-4ab7-9ace-1d28e250d0aa)
 - Implementasi Sistem
-![Screenshot 2024-07-17 214826](https://github.com/user-attachments/assets/667adf5f-e457-4cdb-8931-57cc4b7bd3e7)
-.png…]()
+  ![Screenshot 2024-07-17 214826](https://github.com/user-attachments/assets/667adf5f-e457-4cdb-8931-57cc4b7bd3e7)
 
 
 ## Struktur Repositori
