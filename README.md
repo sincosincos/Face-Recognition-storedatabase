@@ -10,7 +10,6 @@ Proyek ini bertujuan untuk mengembangkan sistem pengenalan wajah yang dapat meng
 - Gunakan file “haarcascade_frontalface_default.xml” yang tersedia pada link https://github.com/opencv/opencv/tree/master/data/haarcascades untuk mendapatkan skrip pengkelasan wajah yang telah disediakan oleh OpenCV.
 - Siapkan 5 gambar wajah pelanggan.
 - Pastikan setiap gambar wajah sudah terdokumentasi dengan baik dan diberi label yang sesuai dengan profil pelanggan.
-- Gunakan skrip **pengambilan.py** untuk mengambil data.
 - Contoh hasil data wajah akan tersimpan di direktori **/DataSet**.
 - Pastikan data tersebut mencakup variasi yang mencukupi dalam jenis kelamin, usia, dan kondisi cahaya.
 
